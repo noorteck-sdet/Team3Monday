@@ -22,6 +22,10 @@ public class DbTest {
 	public void add( int a, int b) {
 		System.out.println((a + b));
 	}
+	
+	public void String(String str) {
+		System.out.println("How we pull request");
+	}
 
 }
  
