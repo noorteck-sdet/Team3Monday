@@ -18,10 +18,10 @@ public class DbTest {
 		System.out.println(1/2);
 	}
 	//Soli
-	public void Subtract() {
-		System.out.println( 1 - 2); 
+	public void car() {
+		System.out.println( "BMW");  
 	}
-	//Soli Trying 
+	//Soli Trying  
    
 }
  
