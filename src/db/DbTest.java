@@ -4,6 +4,8 @@ public class DbTest {
 
 	public static void main(String[] args) {
 		
+		//Kaylas making cats 
+		cats();
 	}
 	
 	public void add() {
@@ -33,6 +35,11 @@ public class DbTest {
 	}
 	public void String(String str) {
 		System.out.println("How we pull request");
+	}
+	//Kayls cat mothod
+	
+	public static void cats () { 
+		System.out.println(" Meow");
 	}
 
 
