@@ -17,4 +17,11 @@ public class DbTest {
 	public void divide() {
 		System.out.println(1/2);
 	}
+
+	
+	public void add( int a, int b) {
+		System.out.println((a + b));
+	}
+
 }
+ 
