@@ -17,16 +17,11 @@ public class DbTest {
 	public void divide() {
 		System.out.println(1/2);
 	}
-
-	
-	public void add( int a, int b) {
-		System.out.println((a + b));
+	//Soli
+	public void car() {
+		System.out.println( "BMW");  
 	}
-
-	
-	public void add (int a,int b,int c, int d ) {
-		System.out.println(a+b+c+d);
-		// did not push
-	}
+	//Soli Trying  
+   
 }
  
