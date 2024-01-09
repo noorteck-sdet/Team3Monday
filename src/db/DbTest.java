@@ -13,4 +13,8 @@ public class DbTest {
 	public void subtract() {
 	System.out.println(1-2);
 	}
+	
+	public void divide() {
+		System.out.println(1/2);
+	}
 }
