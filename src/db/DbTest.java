@@ -21,7 +21,21 @@ public class DbTest {
 	public void car() {
 		System.out.println( "BMW");  
 	}
+
 	//Soli Trying  
    
+
+
+	
+	public void add (int a,int b,int c, int d ) {
+		System.out.println(a+b+c+d);
+		// did not push
+	}
+	public void String(String str) {
+		System.out.println("How we pull request");
+	}
+
+
+
 }
  
