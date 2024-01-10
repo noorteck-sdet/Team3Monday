@@ -42,9 +42,7 @@ public class DbTest {
 		System.out.println(" Meow");
 	}
 	
-	public void String(String str) {
-		System.out.println("How we pull request");
-	}
+	
 
 
 
