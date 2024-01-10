@@ -42,8 +42,17 @@ public class DbTest {
 		System.out.println(" Meow");
 	}
 	
-	
-
+	// Return days of the week
+	public static String days(int num) {
+		if(num == 1) return "Monday";
+		else if(num == 2) return "Tuesday";
+		else if(num == 3) return "Wednesday";
+		else if(num == 4) return "Thursday";
+		else if(num == 5) return "Friday";
+		else if(num == 6) return "Saturday";
+		else if(num == 7) return "Sunday";
+		else return "Enter a number between 1-7";
+	}
 
 
 }
