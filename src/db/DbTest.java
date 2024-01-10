@@ -89,4 +89,13 @@ public class DbTest {
 		
 		
 	}
+	
+	public static void main1(String[] args) {
+		
+		System.out.println("We all love Kamy");
+		
+	}
+	
+	
+	
 }
