@@ -82,5 +82,20 @@ public class DbTest {
 		boolean result = true;
 		
 		return result;//-->You already know this! Brian
+		
+		
+		
+		// Hi Brian please review my codes --- Akbar
+		
+		
 	}
+	
+	public static void main1(String[] args) {
+		
+		System.out.println("We all love Kamy");
+		
+	}
+	
+	
+	
 }
