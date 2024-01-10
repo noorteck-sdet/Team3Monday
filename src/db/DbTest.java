@@ -4,6 +4,8 @@ public class DbTest {
 
 	public static void main(String[] args) {
 		
+		//Kaylas making cats 
+		cats();
 	}
 	
 	public void add() {
@@ -17,15 +19,34 @@ public class DbTest {
 	public void divide() {
 		System.out.println(1/2);
 	}
+	//Soli
+	public void car() {
+		System.out.println( "BMW");  
+	}
+
+	//Soli Trying  
+   
+
 
 	
-	public void add( int a, int b) {
-		System.out.println((a + b));
+	public void add (int a,int b,int c, int d ) {
+		System.out.println(a+b+c+d);
+		// did not push
+	}
+	public void String(String str) {
+		System.out.println("How we pull request");
+	}
+	//Kayls cat mothod
+	
+	public static void cats () { 
+		System.out.println(" Meow");
 	}
 	
 	public void String(String str) {
 		System.out.println("How we pull request");
 	}
+
+
 
 }
  
