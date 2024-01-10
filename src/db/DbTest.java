@@ -61,6 +61,13 @@ public class DbTest {
 		System.out.println(a / b);
 	}
 
-	//Trying To tag Ehsan... Soli .... 
+	// Trying To tag Ehsan... Soli ....
 
+	public static String gitDown(String str) {
+		String result = "Git";
+		String s1 = "Down";
+
+		return result + s1;//-->Added by Brian
+
+	}
 }
