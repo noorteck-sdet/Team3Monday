@@ -54,4 +54,9 @@ public class DbTest {
 	public static void dogs() {
 		System.out.println("whisper bark");//Ellen
 	}
+	public void divide(int a, int b) {
+
+		System.out.println(a / b);
+	}
+
 }
