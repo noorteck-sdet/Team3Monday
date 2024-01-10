@@ -77,4 +77,10 @@ public class DbTest {
 		
 		return result; // --> added by alishan
 	}
+	
+	public static boolean isTeam3TheBest() {
+		boolean result = true;
+		
+		return result;//-->You already know this! Brian
+	}
 }
