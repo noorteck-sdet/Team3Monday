@@ -23,9 +23,11 @@ public class DbTest {
 	public void car() {
 		System.out.println( "BMW");  
 	}
-
 	//Soli Trying  
+   
+	 
 	
+
 	public void add (int a,int b,int c, int d ) {
 		System.out.println(a+b+c+d);
 		// did not push
@@ -59,4 +61,32 @@ public class DbTest {
 		System.out.println(a / b);
 	}
 
+	// Trying To tag Ehsan... Soli ....
+
+	public static String gitDown(String str) {
+		String result = "Git";
+		String s1 = "Down";
+
+		return result + s1;//-->Added by Brian
+
+	}
+	
+	public static boolean isKamyHere() {
+		boolean result = false;
+		
+		
+		return result; // --> added by alishan
+	}
+	
+	public static boolean isTeam3TheBest() {
+		boolean result = true;
+		
+		return result;//-->You already know this! Brian
+		
+		
+		
+		// Hi Brian please review my codes --- Akbar
+		
+		
+	}
 }
