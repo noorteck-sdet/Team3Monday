@@ -25,9 +25,6 @@ public class DbTest {
 	}
 
 	//Soli Trying  
-   
-
-
 	
 	public void add (int a,int b,int c, int d ) {
 		System.out.println(a+b+c+d);
@@ -54,6 +51,12 @@ public class DbTest {
 		else return "Enter a number between 1-7";
 	}
 
+	public static void dogs() {
+		System.out.println("whisper bark");//Ellen
+	}
+	public void divide(int a, int b) {
+
+		System.out.println(a / b);
+	}
 
 }
- 
