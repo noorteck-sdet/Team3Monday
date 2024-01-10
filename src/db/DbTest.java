@@ -70,4 +70,11 @@ public class DbTest {
 		return result + s1;//-->Added by Brian
 
 	}
+	
+	public static boolean isKamyHere() {
+		boolean result = false;
+		
+		
+		return result; // --> added by alishan
+	}
 }
