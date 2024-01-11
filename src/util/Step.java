@@ -3,7 +3,7 @@ package util;
 public class Step {
 
 	public void display(String str) {
-		System.out.println(str);
+		System.out.println("Today is WedNesday");
 	}
 	
 	public void getData() {
@@ -13,8 +13,9 @@ public class Step {
 		System.out.println("City: Dallas");// Akbar 
 	}
 	
-	public void add (int a, int b) {
-		System.out.println(a+b);
-		
+
+	public void getDirection() {
+		System.out.println("123 drive");
+
 	}
 }
