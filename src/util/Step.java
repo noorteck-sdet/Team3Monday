@@ -12,4 +12,9 @@ public class Step {
 		System.out.println("City: Reston");
 		System.out.println("City: Dallas");// Akbar 
 	}
+	
+	public void add (int a, int b) {
+		System.out.println(a+b);
+		
+	}
 }
