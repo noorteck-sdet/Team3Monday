@@ -97,7 +97,9 @@ public class DbTest {
 	}
 	
 	//this is going to kamy 
-	
+	public void Static add(int c, int d){
+		System.out.println(c+d); 
+	} 
 	
 	
 }
