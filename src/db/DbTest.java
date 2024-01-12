@@ -109,7 +109,7 @@ public class DbTest {
 
 	}
 	
-	public static void getDiamonds(String diamonds) {
+	public static void getDiamonds1(String diamonds) {
 		System.out.println("Where they at though?");
 	}
 }
