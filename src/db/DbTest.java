@@ -83,4 +83,8 @@ public class DbTest {
 		
 		return result;//-->You already know this! Brian
 	}
+	
+	public static void breakAlready(String whyNot) {
+		System.out.println("Break Dammit");
+	}
 }
