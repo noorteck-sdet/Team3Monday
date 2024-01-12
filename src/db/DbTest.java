@@ -110,12 +110,19 @@ public class DbTest {
 
 	public static void getDiamonds(String diamonds) {
 		System.out.println("Where they at though?");
+
 	}
-	
-	public static void cold () {
-		System.out.println( " Im Freezing");
+
+	public static void getDiamonds1(String diamonds) {
+		System.out.println("Where they at though?");
 	}
 	
 	//Kayla trying to break still 
+
+	public static void cold() {
+		System.out.println(" Im Freezing");
+	}
+
+	//Jackie wanting diamonds
 
 }
