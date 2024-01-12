@@ -14,5 +14,5 @@ public class Step {
 	}
 	public void getData(){
 		System.out.println("Sweden"); 
-		
+	}
 }
