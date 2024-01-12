@@ -111,5 +111,9 @@ public class DbTest {
 	public static void getDiamonds(String diamonds) {
 		System.out.println("Where they at though?");
 	}
+	
+	public static void cold () {
+		System.out.println( " Im Freezing");
+	}
 
 }
