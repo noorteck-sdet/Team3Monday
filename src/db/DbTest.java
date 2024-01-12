@@ -94,6 +94,10 @@ public class DbTest {
 
 	}
 
+	public static void breakAlready(String whyNot) {
+		System.out.println("Break Dammit");
+	}
+
 	public static void main1(String[] args) {
 
 		System.out.println("We all love Kamy");
@@ -108,8 +112,13 @@ public class DbTest {
 		System.out.println("Where they at though?");
 
 	}
-	
+
 	public static void getDiamonds1(String diamonds) {
 		System.out.println("Where they at though?");
 	}
+
+	public static void cold() {
+		System.out.println(" Im Freezing");
+	}
+
 }
