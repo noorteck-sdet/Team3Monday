@@ -99,5 +99,8 @@ public class DbTest {
 	//this is going to kamy 
 	
 	//Jackie trying to get diamonds
+
+	public static void getDiamonds(String diamonds) {
+		System.out.println("Where they at though?");
 	
 }
