@@ -26,13 +26,13 @@ public void setSum() {
 
 
 	// alishan sending back to eclipse
-<<<<<<< HEAD
+
 
 	
 
 
-=======
+
 
 	// is eclipse getting this?
 }
->>>>>>> branch 'dev' of https://github.com/noorteck-sdet/Team3Monday.git
+
