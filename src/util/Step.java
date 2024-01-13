@@ -20,7 +20,7 @@ public class Step {
 public void setSum() {
 	System.out.println("Info");
 }
-	}
+
 
 // did eclipse get it
 
@@ -28,11 +28,16 @@ public void setSum() {
 	// alishan sending back to eclipse
 
 
+
+public void abc() {
+	System.out.println("ABC");
+}
+}
 	
 
 
 
 
 	// is eclipse getting this?
-}
+
 
