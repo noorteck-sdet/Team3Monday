@@ -32,6 +32,9 @@ public void setSum() {
 public void abc() {
 	System.out.println("ABC");
 }
+
+	public void def(){
+	}
 }
 	
 
