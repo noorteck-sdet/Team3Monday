@@ -16,6 +16,17 @@ public class Step {
 	public static void getInfo() {
 		System.out.println("Just sending to git");
 	}
+	
+public void setSum() {
+	System.out.println("Info");
+}
+	}
+
+// did eclipse get it
+
 
 	// alishan sending back to eclipse
-}
+
+	
+
+
