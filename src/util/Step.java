@@ -3,20 +3,17 @@ package util;
 public class Step {
 
 	public void display(String str) {
-		System.out.println("Today is WedNesday");
+		System.out.println(str);
 	}
 	
 	public void getData() {
 		System.out.println("Country: USA");
 		System.out.println("State: VA" );
 		System.out.println("City: Reston");
-		System.out.println("City: Dallas");// Akbar 
 	}
 	
-
-	public void getDirection() {
-		System.out.println("123 drive");
-
+	
+	public static void getInfo() {
+		System.out.println("Just sending to git");
 	}
-	//Soli 
 }
