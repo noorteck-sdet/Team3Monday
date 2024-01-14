@@ -10,9 +10,47 @@ public class Step {
 		System.out.println("Country: USA");
 		System.out.println("State: VA" );
 		System.out.println("City: Reston");
-		System.out.println("City: Dallas");// Akbar 
 	}
+
+	
+	
+	public static void getInfo() {
+		System.out.println("Just sending to git");
+	}
+	
+public void setSum() {
+	System.out.println("Info");
+}
+
+
+// did eclipse get it
+
+
+	// alishan sending back to eclipse
+
+
+
+public void abc() {
+	System.out.println("ABC");
+
 	public void getData(){
 		System.out.println("Sweden"); 
 	}
+
 }
+
+	public void def(){
+	}
+	
+	// will this go to git now
+
+	// last one go to eclipse
+}
+	
+
+
+
+
+	// is eclipse getting this?
+
+
