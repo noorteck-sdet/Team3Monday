@@ -11,6 +11,7 @@ public class Step {
 		System.out.println("State: VA" );
 		System.out.println("City: Reston");
 	}
+
 	
 	
 	public static void getInfo() {
@@ -31,6 +32,11 @@ public void setSum() {
 
 public void abc() {
 	System.out.println("ABC");
+
+	public void getData(){
+		System.out.println("Sweden"); 
+	}
+
 }
 
 	public void def(){
